@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="name_text">Andrew Adel</string>
+    <string name="yellowStar">"Yellow Star "</string>
+    <string name="bio_text">● Ain Shams University C.S Student \n● Cumulative GPA : 2.9 \n
+        Sophomore Who is dedicated to learn more and more about programming and improving my skills by learning more about most of technologies\n
+        I am So Excited to learn more about android and utilize my programming skills to make stable and good looking apps\n
+        and also using my problem solving skills to make apps that really solve our problems and make life easier for users.\n
+        __________________________\n
+        ⪢Programming Languages:\n
+        .C++\n.C#\n.C\n.Java\n.Dart\n.Python\n.Kotlin\n
+    </string>
+    <string name="what_is_your_nickname">What is your nickname ?</string>
+    <string name="Done">DONE</string>
+</resources>
